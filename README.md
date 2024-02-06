@@ -8,14 +8,16 @@ Note: Megaline rounds seconds to minutes, as well as megabytes to gigabytes. For
 ## Surf
 - Monthly fee: $20
 - 500 minutes of call duration per month, 50 SMS, and 15 GB data
-- After exceeding the package limit, you will be charged:
+
+After exceeding the package limit, you will be charged:
 - 1 minute: 3 cents
 - 1 SMS: 3 cents
 - 1 GB data: $10
 ## Ultimate
 - Monthly fee: $70
 - 3000 minutes of call duration per month, 1000 SMS and 30 GB data
-- After exceeding the package limit, you will be charged:
+
+After exceeding the package limit, you will be charged:
 - 1 minute: 1 cent
 - 1 SMS: 1 cent
 - 1 GB data: $7
